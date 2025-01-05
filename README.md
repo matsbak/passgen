@@ -1,4 +1,4 @@
-# Passgen
+# passgen
 
 This project is a simple password generator application coded in Java. The motivation behind the
 project was for me to have a password manager application that I could use to generate secure
